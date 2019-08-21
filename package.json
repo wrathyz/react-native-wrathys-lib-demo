@@ -1,7 +1,7 @@
 {
   "name": "react-native-wrathys-lib-demo",
   "version": "1.0.1",
-  "description": "First library demo for me",
+  "description": "Library Demo",
   "main": "index.js",
   "keywords": [
     "react-native",
