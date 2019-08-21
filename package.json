@@ -1,16 +1,25 @@
 {
   "name": "react-native-wrathys-lib-demo",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "First library demo for me",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
-    "react-native"
+    "react-native",
+    "android"
   ],
-  "author": "",
-  "license": "",
+  "homepage": "https://github.com/wrathyz/react-native-wrathys-lib-demo",
+  "bugs": {
+    "url": "https://github.com/wrathyz/react-native-wrathys-lib-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wrathyz/react-native-wrathys-lib-demo"
+  },
+  "author": {
+    "name": "Satayu Pomsri",
+    "email": "satayu132@gmail.com"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
