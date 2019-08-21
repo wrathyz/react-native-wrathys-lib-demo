@@ -1,6 +1,8 @@
 
 # react-native-wrathys-lib-demo
 
+[![npm version](https://badge.fury.io/js/react-native-wrathys-lib-demo.svg)](https://badge.fury.io/js/react-native-wrathys-lib-demo)
+
 ## Getting started
 
 `$ npm install react-native-wrathys-lib-demo --save`
